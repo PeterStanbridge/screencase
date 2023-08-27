@@ -1,0 +1,11 @@
+name: screencase
+title:
+username:
+account: sensemaker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9644392
+bundleId: 7592740
+url: https://sensemaker.shinyapps.io/screencase/
+when: 1692617434.93005
+lastSyncTime: 1692617434.93006
