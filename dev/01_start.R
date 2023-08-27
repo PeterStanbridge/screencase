@@ -19,7 +19,7 @@
 ## to change the name in the app_sys() function in app_config.R /!\
 ##
 golem::fill_desc(
-  pkg_name = "TestGolemShiny",
+  pkg_name = "screencase",
   pkg_title = "Testing Golem Shiny",
   pkg_description = "From the youtube video Building a Basic Shiny app with Golem by Mauricio Vargas.",
   author_first_name = "Peter",

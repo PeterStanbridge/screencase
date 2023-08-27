@@ -1,4 +1,4 @@
-Package: TestGolemShiny
+Package: screencase
 Title: Testing Golem Shiny
 Version: 0.0.0.9000
 Authors@R: person('Peter', 'Stanbridge', email = 'peter.stanbridge@cognitive-edge.com', role = c('cre', 'aut'))
